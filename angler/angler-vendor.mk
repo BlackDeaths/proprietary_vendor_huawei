@@ -54,3 +54,7 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     com.google.android.camera.experimental2016 \
     qcrilhook
+
+PRODUCT_PACKAGES += \
+    TimeService \
+    ims
