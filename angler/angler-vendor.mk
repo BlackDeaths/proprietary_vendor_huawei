@@ -282,12 +282,10 @@ PRODUCT_PACKAGES += \
     HwSarControlService \
     Tycho \
     CNEService \
-    CarrierServices \
     ConnMO \
     DCMO \
     DMService \
     DiagMon \
-    GCS \
     HiddenMenu \
     HotwordEnrollmentOKGoogleWCD9330 \
     HotwordEnrollmentTGoogleWCD9330 \
